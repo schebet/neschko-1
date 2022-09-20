@@ -15,7 +15,7 @@ const ContactPage = ({
         <meta name="description" content={"Contact page of " + site.siteMetadata.description} />
       </Helmet>
       <div className="two-grids -contact">
-        <div className="post-thumbnail" style={{backgroundImage: `url('/assets/alexander-andrews-HgUDpaGPTEA-unsplash.jpg')`, marginBottom: 0}}>
+        <div className="post-thumbnail" style={{backgroundImage: `url('/static/assets/telefon.png')`, marginBottom: 0}}>
           <h1 className="post-title">Budimo u kontaktu</h1>
           <p>Vaše ime,e-mail adresa i poruka &rarr;</p>
         </div>

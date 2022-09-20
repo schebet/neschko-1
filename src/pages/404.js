@@ -37,7 +37,7 @@ const notFound = () => {
             fill="currentColor"
           />
         </svg>
-        <p>Vratite se na početnu stranicu <Link to="/">Početna</Link> safely</p>
+        <p>Vratite se na početnu stranicu <Link to="/">Početna</Link> </p>
       </div>
     </Layout>
   )

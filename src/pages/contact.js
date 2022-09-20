@@ -17,7 +17,7 @@ const ContactPage = ({
       <div className="two-grids -contact">
         <div className="post-thumbnail" style={{backgroundImage: `url('/assets/alexander-andrews-HgUDpaGPTEA-unsplash.jpg')`, marginBottom: 0}}>
           <h1 className="post-title">Budimo u kontaktu</h1>
-          <p>Pošalji e.mail adresu i poruku &rarr;</p>
+          <p>Pošalji e-mail  i poruku &rarr;</p>
         </div>
         <div>
           <form className="form-container" action="https://sendmail.w3layouts.com/SubmitContactForm" method="post">
@@ -26,7 +26,7 @@ const ContactPage = ({
               <input type="text" name="w3lName" id="w3lName"/>
             </div>
             <div>
-              <label htmlFor="w3lSender">Vaš E-mail</label>
+              <label htmlFor="w3lSender">Vaša E-mail adresa</label>
               <input type="email" name="w3lSender" id="w3lSender"/>
             </div>
             <div>

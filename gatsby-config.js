@@ -48,7 +48,7 @@ module.exports = {
         short_name: `Neško`,
         start_url: `/`,
         background_color: `#fff`,
-        theme_color: `#381696`,
+        theme_color: `#1d2aa1`,
         display: `standalone`,
         icon: "src/images/icon.png",
       },

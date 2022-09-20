@@ -2,7 +2,12 @@
 template: BlogPost
 path: /blog
 date: 2022-09-20T18:30:37.763Z
-title: Moje selo Šebet
+title: О Шебету
+metaDescription: >-
+  Шебет је лоциран у Горњем Заплању. Налази се на западним падинама Суве планине
+  (1.810 m), y југозападном подножју њеног врха Дебелац (1.671 m) и изворишном
+  делу Шебетске реке, десне притоке Кутинске реке...
+thumbnail: /assets/šebet-moj.jpg
 ---
 ![](/img/šebet-moj.jpg)
 

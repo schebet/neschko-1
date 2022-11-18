@@ -1,7 +1,7 @@
 backend:
   name: github
   # change repo to your git repository url
-  repo:  schebet/neschko
+  repo:   anavoli/neschko 
 
 
 media_folder: static/assets
